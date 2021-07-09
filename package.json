@@ -1,0 +1,19 @@
+{
+  "name": "testestealthag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node build/index.js"
+  },
+  "keywords": [],
+  "author": "Victor Lomba",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.0.0",
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
